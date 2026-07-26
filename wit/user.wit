@@ -1,0 +1,100 @@
+/// User Service — owns the User aggregate.
+///
+/// Package: cloud:user
+/// Version: 0.2
+///
+/// Two interfaces:
+///   user    — identity + profile + lifecycle
+///   address — user addresses (reference data stays external)
+///
+/// Callers import only what they need:
+///   app-user        → cloud:user/user.{get-profile, update-profile}
+///   app-user        → cloud:user/address.{get-addresses, save-address, ...}
+///   commerce        → cloud:user/user.get-profile
+///   verification    → cloud:user/user.mark-verified
+package cloud:user;
+
+interface user {
+    /// --- types ---
+
+    /// Public profile — what other services see.
+    record profile {
+        id: string,
+        nickname: string,
+        avatar: string,
+    }
+
+    /// Full user record — internal to this service.
+    record user {
+        id: string,
+        nickname: string,
+        avatar: string,
+        email: string,
+        status: status,
+        /// Set by VerificationApproved event. NOT the same as nickname.
+        verified-name: option<string>,
+        %created-at: string,
+        %updated-at: string,
+    }
+
+    variant status {
+        active,
+        inactive,
+        suspended,
+    }
+
+    variant error {
+        not-found,
+        invalid-input(string),
+        already-exists,
+    }
+
+    /// --- lifecycle ---
+
+    create-user: func(nickname: string) -> result<user, error>;
+
+    /// --- queries ---
+
+    get-user: func(id: string) -> result<option<user>, error>;
+    get-profile: func(id: string) -> result<option<profile>, error>;
+
+    /// --- mutations ---
+
+    update-profile: func(id: string, nickname: string, avatar: string) -> result<profile, error>;
+    update-status: func(id: string, new-status: status) -> result<user, error>;
+
+    /// Set by consuming VerificationApproved events — not a user-facing endpoint.
+    mark-verified: func(id: string, verified-name: string) -> result<_, error>;
+}
+
+interface address {
+    use user.{error};
+
+    record user-address {
+        id: string,
+        user-id: string,
+        province: string,
+        city: string,
+        district: string,
+        detail: string,
+        /// ponytail: bool ok for v0.2. Split into AddressPreference
+        /// (default_shipping / default_billing / default_invoice) when
+        /// commerce or billing services need different defaults.
+        is-default: bool,
+        %created-at: string,
+    }
+
+    get-addresses: func(user-id: string) -> result<list<user-address>, error>;
+
+    save-address: func(
+        user-id: string,
+        province: string,
+        city: string,
+        district: string,
+        detail: string,
+        is-default: bool,
+    ) -> result<user-address, error>;
+
+    set-default-address: func(user-id: string, address-id: string) -> result<_, error>;
+    delete-address: func(user-id: string, address-id: string) -> result<_, error>;
+}

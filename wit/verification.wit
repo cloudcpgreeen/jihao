@@ -1,0 +1,70 @@
+/// Verification Service — identity verification (real-name, ID document).
+///
+/// Package: cloud:verification
+/// Version: 0.1
+///
+/// This is the SEMANTIC contract for verification. User-svc imports
+/// this to consume verification results. The WIT contract is the source
+/// of truth — Rust types in event-contracts are one transport encoding,
+/// not the definition.
+///
+/// Invariant: Verification confirms real-world identity attributes.
+/// It does NOT create Principal, User, or any digital identity.
+
+package cloud:verification@0.1.0;
+
+interface verify {
+    /// --- types ---
+
+    /// A verification submission — user uploads identity documents.
+    record verification-submitted {
+        verification-id: string,
+        user-id: string,
+        /// URL to uploaded document image
+        image-url: string,
+    }
+
+    /// Verification approved — real-name confirmed.
+    record verification-approved {
+        verification-id: string,
+        user-id: string,
+        /// Verified real name from ID document
+        name: string,
+        /// ID document number
+        id-number: string,
+    }
+
+    /// Verification rejected with reason.
+    record verification-rejected {
+        verification-id: string,
+        user-id: string,
+        reason: string,
+    }
+
+    variant verification-event {
+        submitted(verification-submitted),
+        approved(verification-approved),
+        rejected(verification-rejected),
+    }
+
+    /// --- interface ---
+
+    /// Submit identity documents for verification.
+    submit: func(
+        user-id: string,
+        image-url: string,
+    ) -> result<verification-submitted, string>;
+
+    /// Approve a verification. Called by admin/automated review.
+    approve: func(
+        verification-id: string,
+        name: string,
+        id-number: string,
+    ) -> result<verification-approved, string>;
+
+    /// Reject a verification with reason.
+    reject: func(
+        verification-id: string,
+        reason: string,
+    ) -> result<verification-rejected, string>;
+}

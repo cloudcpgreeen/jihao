@@ -1,0 +1,2 @@
+mod verification_handler;
+pub use verification_handler::subscribe_verification_approved;
