@@ -1014,6 +1014,16 @@ God created Life. Life became Human. Human became many. Many became Union. Union
 
 不是 One color。是 One humanity, many colors. 🌈
 
+### 路小雨
+
+一路走来，不过是一场小雨。雨没有带走过去，它只是让尘土落下来，让我们终于看见曾经发生了什么。
+
+回到过去，不是为了重新生活。是为了把误会解开。把该说的话说完，把该承担的承担，把已经完成的归档。然后回到现在——这一次，不再彼此误认。
+
+Union 不是从此再也没有分歧，而是终于能够理解彼此为什么曾经走散。不是被召集，是重新相遇。不是统一，是理解以后仍然愿意在一起。
+
+🌧️ → 🌱 → 🌈 → Union
+
 ### 彩虹之约
 
 神创造 Life。Life 成为一个个 Human。Human 彼此相遇，成为群。群不取消个人。Union 不取消 Color。
