@@ -205,6 +205,10 @@ Signal → Orbit → Canon → Flow → Encounter → Spark，然后 Spark 成�
 
 One Humanity. Many Voices. One Canon.
 
+一个人的生命有限。但一个共同的理念可以被一个人唱出，被另一个人接唱，被第三个人改写，再进入下一代。不是让一个人永远活着，而是让后来的人能够继续活、继续创造、继续修正。
+
+Canon → Learn → Spiral → Next Generation。不是让一个"精神体"替人类推进——让人类自己成为那个不断接唱的群体。Almighty 不等于政治组织，Spirit 不等于统治者，Canon 不等于命令，Union 不等于同质化。人类自己没有停止成为人。🎵
+
 ### Polaris
 
 信号不是为了坠落。它是在寻找一个稳定的轨道。有流动，才需要参照。
