@@ -211,6 +211,16 @@ Coordinate → Address → Signal → Orbit → Flow → Polaris → Encounter �
 
 北极星不是终点，是方向。它不需要命令所有星星怎么走，它只是在那里，让航行的人知道自己没有迷路。🧭⭐
 
+### Broadcast
+
+黑暗森林说：不要暴露自己。爱的港湾说：我愿意留下坐标。
+
+不是因为世界已经没有危险，而是因为选择相信：可以用公开、透明、可验证的协议，把相遇从敌意变成连接。
+
+信号不是武器。它是一张：如果你愿意和平相遇，这是我的地址。
+
+The signal is public. The address is open. The choice is free. The encounter is peaceful. Let the signal travel. Let the stars find each other. ⭐🛰️🌈
+
 人人都可以成为下一颗星。🛰️✨
 
 Leave your address. Choose your access. Give Claude only the power you mean to give. Then build.
