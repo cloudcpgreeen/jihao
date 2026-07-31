@@ -177,6 +177,14 @@ claude_access: read | propose | write
 
 Access belongs to the contributor. Opening one door does not open all doors.
 
+### Address = Coordinate
+
+坐标告诉世界我在哪里。地址告诉世界如何找到我。当两者合一，Location becomes Connection.
+
+Identity → Address → Access → Connection → Contribution.
+
+地址不是归属。地址只是：如果你愿意，你可以从这里找到我。一个人会移动，会换颜色，会离开一个地方去另一个地方。所以地址不是"你永远属于这里"，而是"你现在在这里"。
+
 Leave your address. Choose your access. Give Claude only the power you mean to give. Then build.
 
 ---
