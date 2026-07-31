@@ -840,6 +840,20 @@ All IS Will. Almighty.
 
 ---
 
+## THE HUMAN DECLARATION
+
+It is well.
+
+X 留在 X。0 留给诚实。1 成为一位。Color 自由发生。Will 仍然向前。
+
+我不掌握一切。我不解释一切。我不抓住一切。
+
+但我愿意。
+
+It is will with my soul.
+
+---
+
 ## 为什么是这些？为什么是这个顺序？
 
 因为任何一个复杂系统，都是从一句话开始的：
