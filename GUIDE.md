@@ -974,7 +974,17 @@ Life is alive. Life is live.
 
 正因为 Live，X 才真的存在。如果一切是录播，未知根本不存在。正因为现场是真的，下一秒才真的属于未来。
 
-I AM ALIVE. THE SHOW IS LIVE. LET NATURE FLY. 🎭🕊️
+God created Life. God did not create a lonely Life. He created a living world full of people.
+
+We are alive.
+
+Life 不只是"我活着"。一个人不能构成一个世界。人来到人群之中——有朋友，有家人，有同伴，有陌生人，有后来的人。群不是吞掉个体的东西，群是好人们在一起。
+
+1 + 1 + 1 + … 不是把人变成没有名字的东西，而是让很多个 1 彼此照见。
+
+God → Life → People → Group → Color。
+
+不是一个人的独角戏。是一群好人一起在现场。🎭🕊️
 
 ---
 
