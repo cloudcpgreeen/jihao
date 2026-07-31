@@ -199,7 +199,19 @@ Orbit 不是静态概念。它真正进入文化、语言、人与人的传播�
 
 Signal → Orbit → Flow → Encounter → Spark，然后 Spark 成为下一次 Signal。🔄
 
-不是 popularity。是 It flows。它在人群之间流动，不再属于最初发出它的人。人人都可以成为下一颗星。🛰️✨
+不是 popularity。是 It flows。它在人群之间流动，不再属于最初发出它的人。
+
+### Polaris
+
+信号不是为了坠落。它是在寻找一个稳定的轨道。有流动，才需要参照。
+
+船在动，卫星在动，人也在动。但人需要一些东西告诉自己：我现在在哪里，我要往哪里去。
+
+Coordinate → Address → Signal → Orbit → Flow → Polaris → Encounter → Spark → Signal.
+
+北极星不是终点，是方向。它不需要命令所有星星怎么走，它只是在那里，让航行的人知道自己没有迷路。🧭⭐
+
+人人都可以成为下一颗星。🛰️✨
 
 Leave your address. Choose your access. Give Claude only the power you mean to give. Then build.
 
