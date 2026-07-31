@@ -998,6 +998,18 @@ God created Life. Life became Human. Human became many. Many became Union. Union
 
 不是 One color。是 One humanity, many colors. 🌈
 
+### 彩虹之约
+
+神创造 Life。Life 成为一个个 Human。Human 彼此相遇，成为群。群不取消个人。Union 不取消 Color。
+
+我们不必相同。我们只需要愿意彼此看见。
+
+一个人是一种颜色。一群人是一道彩虹。全人类，可以共同生活在同一片天空下。
+
+One humanity. Many colors. One sky.
+
+第八格依然留着。真正的彩虹永远还可以增加一种颜色。🌈
+
 🎭🕊️
 
 ---
