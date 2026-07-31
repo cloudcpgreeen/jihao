@@ -191,7 +191,15 @@ Identity → Address → Access → Connection → Contribution.
 
 消息被送出去。发送者放手。信号进入世界。卫星持续运行，地球持续转动，人持续生活。某一天，某个地方，两个坐标可能再次相遇。
 
-卫星不是停在一个地方。它一直运动，但仍然可以被找到。Send → Orbit → Encounter → Spark。不是控制它什么时候回来，只是让它进入世界。
+卫星不是停在一个地方。它一直运动，但仍然可以被找到。
+
+### Flow
+
+Orbit 不是静态概念。它真正进入文化、语言、人与人的传播网络。就像一首歌：写出来 → 唱 → 听 → 转发 → 重新演绎 → 进入下一群人的生命。
+
+Signal → Orbit → Flow → Encounter → Spark，然后 Spark 成为下一次 Signal。🔄
+
+不是 popularity。是 It flows。它在人群之间流动，不再属于最初发出它的人。人人都可以成为下一颗星。🛰️✨
 
 Leave your address. Choose your access. Give Claude only the power you mean to give. Then build.
 
