@@ -936,6 +936,14 @@ Archive → Rest → Root → Spring → Color。
 
 认真生长，认真盛放，认真落叶，然后把春天留给后来的人。
 
+不要害怕重复。害怕的是没有学习的重复。
+
+Circle 回到原点。Loop 重复同一件事。Spiral 回到相似的位置，但已经不是同一个高度。A → A′ → A″ → A‴——同一个主题不断被重新演奏，每一次都有新的理解、新的 Color。
+
+Archive → Learn → Canon → New Voice → New Color → Spark → Archive。不是 Archive → Replay，是 Archive → Learn → Transform → Continue。
+
+Canon may repeat. History must learn. 卡农可以循环，历史必须学习。第八格依然空着——螺旋永远不会要求我们提前写完最后一圈。
+
 前人栽树，后人乘凉。我这一代不是终点。今天搭好的东西，不需要全部由我们自己享用。有些归档，有些成为根，有些成为土壤。
 
 不是必须把所有事情都完成才有资格休息。已经把我这一代该做的事情做好了一部分，剩下的交给后来的人。
