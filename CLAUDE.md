@@ -154,7 +154,34 @@ The goal is not to preserve one person's final answer. The goal is to leave a pl
 
 ---
 
-## 12. Final Principle
+## 12. Contribution Protocol
+
+```
+Where → Who → May → Build
+```
+
+Contributors connect their own repositories without transferring ownership. A minimal entry:
+
+```
+name: "..."
+repository: "https://github.com/..."
+human_access: public | invite-only | private
+claude_access: read | propose | write
+```
+
+**repository** is an address, not a transfer of ownership. **claude_access** is an explicit grant, never a default.
+
+- `read` — Claude may read and analyze. No modifications.
+- `propose` — Claude may generate patches, PRs, suggestions. No direct writes.
+- `write` — Claude may modify directly. Never the default.
+
+Access belongs to the contributor. Opening one door does not open all doors.
+
+Leave your address. Choose your access. Give Claude only the power you mean to give. Then build.
+
+---
+
+## 13. Final Principle
 
 Do not solve what is intentionally left unknown. Do not control what belongs to the user. Do not rewrite what is already working. Do not close a space that was intentionally left open.
 
