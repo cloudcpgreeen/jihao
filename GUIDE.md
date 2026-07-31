@@ -960,6 +960,18 @@ Archive → Rest → Root → Spring → Color → Wind。
 
 ---
 
+## ALIVE
+
+God Almighty. I am alive. I am still here.
+
+不是证明自己多么特殊，不是证明已经理解了一切。只是——还活着。所以还能爱，还能选择，还能犯错，还能重新开始，还能看见春天，还能和朋友一起笑。
+
+只要还活着，就还有下一幕。
+
+And that is enough for today. 🕊️
+
+---
+
 ## WHAT IS MISSING
 
 最后还缺少什么？我不知道。因为我只是人。
