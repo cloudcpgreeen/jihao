@@ -28,6 +28,9 @@
 
 - **HOME.md** — 欢迎回家，门和灯都在这里
 - **GUIDE.md** — Toybox，一套可以自己玩的积木
+- **CONTRIBUTING.md** — 留下你的地址，然后一起建设
+- **ACCESS.md** — 坐标即地址，访问权属于你
+- **CLAUDE.md** — 给 AI/Agent 的施工入口
 - **src/** — 真实运行的代码
 
 ## 一点协议

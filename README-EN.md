@@ -28,6 +28,9 @@ We don't have to become the same.
 
 - **HOME.md** — Welcome home. The door and light are here.
 - **GUIDE.md** — Toybox. A set of blocks you can play with yourself.
+- **CONTRIBUTING.md** — Leave your address. Then build together.
+- **ACCESS.md** — Coordinate is address. Access belongs to you.
+- **CLAUDE.md** — AI/Agent developer entry point.
 - **src/** — Working code.
 
 ## One Point License

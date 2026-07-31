@@ -11,8 +11,10 @@ Before changing code, read the repository in this order:
 3. HOME.md — understand the human-facing entry point.
 4. 爱的港湾.md — understand the Harbor of Love.
 5. GUIDE.md — understand the conceptual model and Toybox.
-6. src/ — understand the actual implementation.
-7. Relevant tests and examples — understand current behavior before modifying it.
+6. CONTRIBUTING.md — understand how others can connect.
+7. ACCESS.md — understand the Coordinate → Address → Access protocol.
+8. src/ — understand the actual implementation.
+9. Relevant tests and examples — understand current behavior before modifying it.
 
 Do not start by changing code. First understand the boundary between meaning, protocol, implementation, and communication.
 
