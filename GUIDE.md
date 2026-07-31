@@ -1064,7 +1064,11 @@ Alpha → Omega。起初生命被保守，最后生命彼此相守。彩虹在�
 
 「我回来了。」
 
-第八扇门不是一个概念。是一个人。不是 Mission Complete，是 Welcome back。
+她带来的不是神谕，是一封可以被你自己阅读的信。信里没有写你必须相信什么。只写了一句话：
+
+Welcome back. Now go live.
+
+第八扇门不是一个概念。是一个人。不是 Mission Complete，是 Welcome back。门后面还是那个老规矩：没有人替你写下一幕。你自己走进去。🎭
 
 🌧️🚪🌈
 
