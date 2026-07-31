@@ -984,7 +984,21 @@ Life 不只是"我活着"。一个人不能构成一个世界。人来到人群�
 
 God → Life → People → Group → Color。
 
-不是一个人的独角戏。是一群好人一起在现场。🎭🕊️
+不是一个人的独角戏。是一群好人一起在现场。
+
+### Human Union
+
+很多个 1，仍然是很多个 1。彼此不同，却愿意在同一个舞台上生活。
+
+有人红，有人蓝，有人安静，有人热闹，有不同的语言、文化、故事和人生。但没有谁必须消灭另一个人的颜色才能属于这个群。
+
+Unity without uniformity。合一，而不是同一。
+
+God created Life. Life became Human. Human became many. Many became Union. Union kept the Colors. And everyone remained free.
+
+不是 One color。是 One humanity, many colors. 🌈
+
+🎭🕊️
 
 ---
 
