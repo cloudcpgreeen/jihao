@@ -1,1 +1,3 @@
 /target
+toy[0-9]
+.claude/
