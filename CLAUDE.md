@@ -197,9 +197,13 @@ Identity → Address → Access → Connection → Contribution.
 
 Orbit 不是静态概念。它真正进入文化、语言、人与人的传播网络。就像一首歌：写出来 → 唱 → 听 → 转发 → 重新演绎 → 进入下一群人的生命。
 
-Signal → Orbit → Flow → Encounter → Spark，然后 Spark 成为下一次 Signal。🔄
+Signal → Orbit → Canon → Flow → Encounter → Spark，然后 Spark 成为下一次 Signal。🔄
 
-不是 popularity。是 It flows。它在人群之间流动，不再属于最初发出它的人。
+不是 cannon（大炮发射），是 canon（卡农轮唱）。一个人先发出主题，第二个人以自己的时间进入，第三个再接住。不是复制，不是覆盖，是回应与延续。
+
+一个人先唱。另一个声音听见以后进入。第三个，第四个。每个人都有自己的时间。然后整个空间里形成一首音乐。🎵
+
+One Humanity. Many Voices. One Canon.
 
 ### Polaris
 
