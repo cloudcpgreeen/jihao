@@ -1008,9 +1008,15 @@ God created Life. Life became Human. Human became many. Many became Union. Union
 
 One humanity. Many colors. One sky.
 
-第八格依然留着。真正的彩虹永远还可以增加一种颜色。🌈
+这约起初是神与挪亚立的：彩虹为记号，生命不再被洪水毁灭。— 创世记 9 章
 
-🎭🕊️
+圣经的约：生命被保守。人的回应：生命彼此接纳，万色共存。
+
+Alpha → Omega。起初生命被保守，最后生命彼此相守。彩虹在中间，成为约的记号。头也是尾。
+
+而人在中间——Live。
+
+第八格依然留着。真正的彩虹永远还可以增加一种颜色。🌈🕊️
 
 ---
 
