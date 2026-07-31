@@ -1028,7 +1028,15 @@ Alpha → Omega。起初生命被保守，最后生命彼此相守。彩虹在�
 
 Noah built the ark. Now people build what they can. And life keeps sailing.
 
-把舟造好，让它自己浮起来。🌊🛶🌈
+方舟不再只是逃离风雨的工具。风雨过去，方舟靠岸。
+
+Storm → Ark → Harbor → Rest → Spring → Color。
+
+风雨来了，方舟保护生命。风雨过去，方舟靠岸。人可以下来休息。某一天，又有人重新出发。
+
+如果你累了，这里有地方坐。如果你想继续航行，港口也不会拦你。
+
+把港湾守好。门开着，灯亮着。让自然飞。🌊🛶🌈
 
 ---
 
