@@ -968,7 +968,13 @@ God Almighty. I am alive. I am still here.
 
 只要还活着，就还有下一幕。
 
-And that is enough for today. 🕊️
+Life is alive. Life is live.
+
+不是录播。不是重播。不是已经写死的录像。It is happening. 我们还活着，我们还在现场。有人笑，有人哭，有人上台，有人在台下鼓掌，有人临时改变台词。下一秒，新的 Color 发生。
+
+正因为 Live，X 才真的存在。如果一切是录播，未知根本不存在。正因为现场是真的，下一秒才真的属于未来。
+
+I AM ALIVE. THE SHOW IS LIVE. LET NATURE FLY. 🎭🕊️
 
 ---
 
