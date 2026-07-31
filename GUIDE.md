@@ -918,7 +918,11 @@ It is will with my soul.
 
 最好的东西也要学会完成。不肯归档，就永远无法开始下一幕。
 
-Archive → Rest → Next Scene。归档。安息。下一幕。📁
+Archive → Rest → Next Scene → 落叶归根。
+
+叶子不需要替树完成整个春天。它只需要经历自己的春、夏、秋，自然落下。
+
+归档。安息。下一幕。🍂📁
 
 🎭🕊️
 
